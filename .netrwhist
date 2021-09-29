@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/home/noot/Code/unofficial-pokemon-unite-api'
-let g:netrw_dirhist_6='/home/noot/Code/unofficial-pokemon-unite-api/lib'
-let g:netrw_dirhist_5='/home/noot/.config/i3'
-let g:netrw_dirhist_4='/'
-let g:netrw_dirhist_3='/home/noot'
-let g:netrw_dirhist_2='/home/noot/Code'
-let g:netrw_dirhist_1='/home/noot/Code/dotfiles'
