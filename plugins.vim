@@ -40,4 +40,7 @@ Plug 'leafgarland/typescript-vim'
 " vim-jsx-pretty
 Plug 'maxmellon/vim-jsx-pretty'
 
+" vim-tmux-navigator
+Plug 'christoomey/vim-tmux-navigator'
+
 call plug#end()
